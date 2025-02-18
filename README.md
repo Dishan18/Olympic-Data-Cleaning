@@ -1,3 +1,6 @@
-Hi I am trying to get into data science and this is my first project.
+# Olympic Data Scraping, Data Analysis, Medal Prediction
 
-I have used pandas library of python and cleaned a dataset of all the Olympic athletes till 2020
+-Scraped data from olympedia.org and formed a raw dataset which has 7000 more rows than the olympics
+dataset on Kaggle.
+-Cleaned the Data, bar plots, pie charts, box plots, scatter plots for men vs women performance statistical conclusions.
+-Built a Medal Prediction logistic regression model with an initial accuracy of 87%
